@@ -1,4 +1,4 @@
-demowebshop \n
+demowebshop 
 http://demowebshop.tricentis.com/ — песочница в формате онлайн-магазина.
 Данный репозиторий содержит:
   1. MindMap_demowebshop - карта проекта demowebshop.tricentis.com;
