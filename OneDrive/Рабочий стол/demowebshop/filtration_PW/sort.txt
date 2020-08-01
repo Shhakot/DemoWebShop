@@ -1,0 +1,3 @@
+Sort by: pos, AZ, ZA, LH, HL, created
+Display: 4, 8, 12
+View: grid, list
