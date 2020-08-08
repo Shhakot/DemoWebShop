@@ -3,8 +3,8 @@
 Содержит следующие папки:
   1. QA/SQL;
   2. demowebshop;
-  3. Direct.
-  4. Planoplan
+  3. Direct;
+  4. Planoplan.
 
 **demowebshop**
 -----------------------------------
